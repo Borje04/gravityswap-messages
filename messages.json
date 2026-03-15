@@ -1,5 +1,7 @@
 {
-  "menu_random_messages": [],
+  "menu_random_messages": [
+    "I'm a silly sausage"
+  ],
   "run_random_messages": [],
   "first_run_messages": [],
   "rank_up_messages": [],
