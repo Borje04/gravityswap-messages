@@ -1,21 +1,8 @@
 {
-  "random_messages": [
-    "Welcome to Gravity Swap!"
-  ],
-
-  "first_run_messages": [
-    "Welcome to Gravity Swap!"
-  ],
-
-  "rank_up_messages": [
-    "Someone just lost their spot."
-  ],
-
-  "close_rank_messages": [
-    "You can smell the next rank."
-  ],
-
-  "new_high_score_messages": [
-    "I'm never gonna beat that score..."
-  ]
+  "menu_random_messages": [],
+  "run_random_messages": [],
+  "first_run_messages": [],
+  "rank_up_messages": [],
+  "close_rank_messages": [],
+  "new_high_score_messages": []
 }
